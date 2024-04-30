@@ -7,7 +7,8 @@
 4. [Getting Started](#getting-started)
 ## Como contribuir con este proyecto.
 
-1. Primero, necesitas hacer un fork del repositorio al que deseas contribuir. Esto creará una copia del repositorio en tu cuenta de GitHub. Puedes hacer un fork de un repositorio haciendo clic en el botón "Fork" en la esquina superior derecha de la página del repositorio. 
+1. Primero, necesitas hacer un fork del repositorio al que deseas contribuir. Esto creará una copia del repositorio en tu cuenta de GitHub. Puedes hacer un fork de un repositorio haciendo clic en el botón "Fork" en la esquina superior derecha de la página del repositorio.
+Puedes hacer el fork de todas las ramas o de la rama develop 
 
 2. A continuación, necesitas clonar tu repositorio bifurcado en tu máquina local. Esto te permitirá trabajar en los archivos del proyecto sin conexión. Puedes clonar tu repositorio bifurcado utilizando el comando git clone con la URL de tu bifurcación.
 
