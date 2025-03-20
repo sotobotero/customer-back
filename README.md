@@ -9,13 +9,12 @@ Consulta el paso a paso [**Cómo contribuir con un proyecto en github**](https:/
 ## License
 This project is open source under the [Licencia MIT](https://github.com/sotobotero/CodeHub/blob/develop/LICENSE).
 
-## Descripción
-This project is a REST API example built with Spring Boot that demonstrates CRUD operations for managing customer data.
-## Features
-- Complete CRUD operations for person data
-- REST API with best practices implementation
-- Object mapping with Dozer Mapper
-- Clean, scalable architecture for Spring Boot learners
-## Requirements
-- Java 11+
-- Maven
+## Getting Started
+### Requirements
+1. Java 17 or higher
+### Installation
+1. Clone the repository.
+2. Enter the project folder and run the command ./mvnw package.
+3. Run the command java -jar target/customer-back-0.0.1-SNAPSHOT.jar.
+4. Open your browser and go to http://localhost:8080/swagger-ui.html.
+5. Optionally, you can clone the Angular front-end from the following [repository:](https://github.com/sotobotero/customer-front.)
